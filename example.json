@@ -1,0 +1,69 @@
+{
+    "created_at": "Mon Mar 06 15:24:15 +0000 2017",
+    "id_str": "850006245121695744",
+    "text": "asaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "user": {
+        "id": 22449,
+        "name": "Twitter Dev",
+        "screen_name": "TwitterDev",
+        "location": "Internet",
+        "url": "https://dev.twitter.com/",
+        "description": "Your official source for Twitter Platform news, updates & events. Need technical help? Visit https:\/\/twittercommunity.com\/ \u2328\ufe0f #TapIntoTwitter"
+    },
+    "place": {},
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/XweGngmxlP",
+                "unwound": {
+                    "url": "https://cards.twitter.com/cards/18ce53wgo4h/3xo1c",
+                    "title": "Building the Future of the Twitter API Platform"
+                }
+            }
+        ],
+        "user_mentions": []
+    },
+    "retweeted_status": {
+        "text": "asaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "user": {
+            "screen_name": "aaaaaaaaaaaa"
+        }
+    },
+    "tweet": {
+        "text": "RT @TwitterDev asaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "user": {
+            "screen_name": "aaaaaaaaaaa"
+        }
+    },
+    "truncated": true,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "extended_tweet": {
+        "full_text": "text me parapano apo 140 xaraktires gia na mporo na aksiopoihso to truncated true aparaitito pedio kai na testaro an olaa kala kai an den einai kala na kanume kapoio error handling#yolo#solo",
+        "display_text_range": [
+            0,
+            189
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "yolo",
+                    "indices": [
+                        180,
+                        184
+                    ]
+                },
+                {
+                    "text": "solo",
+                    "indices": [
+                        185,
+                        189
+                    ]
+                }
+            ]
+        }
+    }
+}
